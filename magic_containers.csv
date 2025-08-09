@@ -1,0 +1,4 @@
+name,empty_weight,base_capacity,expansion_factor
+magic pouch,0.1,10,2
+expanding chest,5.0,100,1.5
+bottomless pit,0.0,1,10

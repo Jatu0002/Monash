@@ -1,0 +1,3 @@
+name,empty_weight,compartments
+tackle box,2.0,"[{""name"": ""main"", ""capacity"": 10}, {""name"": ""side"", ""capacity"": 5}]"
+toolbox,5.0,"[{""name"": ""top"", ""capacity"": 15}, {""name"": ""bottom"", ""capacity"": 20}]"
